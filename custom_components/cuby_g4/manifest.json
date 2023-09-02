@@ -1,0 +1,7 @@
+{
+  "name": "cuby_g4",
+  "version": "1.0.0",
+  "domain": "cuby_g4",
+  "platform": "ESPHome",
+  "setup_entry": true
+}
