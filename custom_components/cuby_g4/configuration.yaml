@@ -2,6 +2,6 @@ cuby_g4:
   # El nombre del dispositivo
   name: "Cuby G4"
   # La contraseña del dispositivo
-  password: "Telacomes1"
+  password: "PASSWORD"
   # El usuario del dispositivo
-  username: "oorozcoo@outlook.com"
+  username: "USUARIO"
